@@ -1,1 +1,1 @@
-[# LeetCode-](https://leetcode.com/u/frobel0520/)
+[LeetCode](https://leetcode.com/u/frobel0520/)
