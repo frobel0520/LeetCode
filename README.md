@@ -1,5 +1,19 @@
-# LeetCode
+# Programming Practice
 
-My LeetCode profile: [leetcode.com/u/frobel0520](https://leetcode.com/u/frobel0520/)
+> Index for programming practice materials.
 
-Solutions are submitted and kept on LeetCode itself; this repository only holds the profile link. Older competitive-programming practice (UVa / ZeroJudge) lives in [GPE](https://github.com/frobel0520/GPE).
+## Overview
+
+This repository serves as a pointer to related practice code.
+
+## Main features and content
+
+Older UVa and ZeroJudge solutions are available in [GPE](https://github.com/frobel0520/GPE).
+
+## Status and known limitations
+
+This repository does not contain solution files.
+
+## License and sources
+
+No license file is present in the repository root; this README does not declare reuse rights.
